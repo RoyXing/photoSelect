@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simple</string>
+    <string name="ok">OK</string>
+    <string name="select_max">设置所选照片数量(int)：</string>
+    <string name="bt_get_all_path">获取选中照片本地路径</string>
+    <string name="current_selected">当前选中图片个数：</string>
+</resources>
